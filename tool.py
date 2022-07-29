@@ -1,15 +1,10 @@
 # Working with logtime file
 import pandas as pd
-from helper import add_hyperlink
 # Working with word
-from docx import Document
-from docx.shared import Cm
-from docxtpl import DocxTemplate, InlineImage
+from docxtpl import DocxTemplate, RichText
 from docx.shared import Cm, Inches, Mm, Emu
-import random
 from datetime import date, datetime
 import calendar
-import matplotlib.pyplot as plt
 # Working with env variables
 import os
 from dotenv import load_dotenv
@@ -38,7 +33,7 @@ df_np_arr = new_df.to_numpy()
 # new_df.to_csv('cv_t7_filter.csv', index=False)
 # Generate docx templates:
 
-template = DocxTemplate('./Hoàng Minh Sơn- BB nghiệm thu CTV-template.2022.docx')
+template = DocxTemplate('./template.docx')
 
 # Template variables
 month = date.today().month
@@ -47,17 +42,15 @@ first, last = calendar.monthrange(year, month)
 
 from_date = datetime(year, month, 1).strftime('%d-%m-%Y')
 to_date = datetime(year, month, last).strftime('%d-%m-%Y')
-print(from_date, to_date)
 
 # Template table ticket:
 table_tickets = [{'ticket_title':f'{item[0]} {item[1]}', 'link_ticket':f'https://jira.isofh.com.vn/browse/{item[0]}', 'issue_key':item[0]} for item in df_np_arr]
 # add hyperlinks
-# for item in table_tickets:
-#     p = Document().add_paragraph(item['link_ticket'])
-#     item['link_ticket']=add_hyperlink(p, '', item['link_ticket'])
+for item in table_tickets:
+    rt = RichText()
+    rt.add(item['link_ticket'], url_id=template.build_url_id(item['link_ticket']),color="blue",underline=True)
+    item['link_ticket']=rt
     
-
-# print(table_tickets)
 
 context = {
     'from_date':from_date,
@@ -82,8 +75,10 @@ context = {
     'tai_khoan': os.environ['tai_khoan'],
     # Tại Ngân hàng	
     'ngan_hang': os.environ['ngan_hang'],
+    # Mã nhân viên:
+    'your_staff_code':os.environ['your_staff_code'],
     # list ticket
-    'table_ticket':table_tickets
+    'table_ticket':table_tickets,
 }
 
 file_name = 'Hoàng Minh Sơn- BB nghiệm thu CTV-T7.2022'
