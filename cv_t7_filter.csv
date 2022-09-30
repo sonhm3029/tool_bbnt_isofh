@@ -1,0 +1,48 @@
+Issue Key,Issue summary
+CCQY-3863,Tổng quan bệnh viện - Sửa lại nếu chọn tab Tùy chọn thì truyền giờ 0h00 ở trường tuNgay và 23h59 ở trường denNgay
+ISCHAIN-283,[Vesting] Vesting Community - Phát triển frontend
+ISCHAIN-227,[IVIRSE Website] Code lại các màn hình bản mới
+ISCHAIN-364,Fix button connect wallet trên mobile
+ISCHAIN-365,Sửa lại data vesting mobile
+ISCHAIN-366,Sửa lại blur footer
+ISCHAIN-357,OT deploy blockchain
+ISCHAIN-382,[IVIRSE Website] Responsive màn hình Mobile (Samsung Galaxy A51/71)
+ISCHAIN-374,[IVIRSE Website] Responsive màn hình Mobile (Iphone XR)
+ISCHAIN-387,"[IVIRSE Website] Ẩn nút ""Claim All"" khi chưa có token để claim"
+ISCHAIN-386,[IVIRSE Website] Sửa lỗi phân trang sai
+ISCHAIN-385,"[IVIRSE Website] Ẩn lựa chọn ""MetaMask"" khi connect ví trên thiết bị di động"
+ISCHAIN-391,"Scroll up khi sang trang (trên cả điện thoại và màn hình desktop, làm cả màn Vesting )"
+ISCHAIN-379,[IVIRSE Website] Responsive màn hình Mobile (iPhone 6/7/8)
+ISCHAIN-394,[IVIRSE Website] Fix lại múi giờ hiển thị theo giờ Việt Nam tại các múi giờ khác nhau
+ISCHAIN-396,[IVIRSE Website] Lỗi hiển thị Mint Coin
+ISCHAIN-399,Sửa UI theo yêu cầu
+ISCHAIN-459,ISF_Vesting tool community_Validate file data test chưa đúng khi import vào new campaign
+CCQY-3862,"Chi tiết bộ tiêu chí - Popup Thêm tiêu chí mới, Chỉnh sửa tiêu chí - Tăng số ký tự tối đa trường Tên tiêu chí lên 500 ký tự"
+CCQY-3778,Thống kê mức độ hài lòng NVYT - Lỗi chú thích đè lên trực hoành biểu đồ Số lượng các mức điểm Phần A - Sự hài lòng về môi trường làm việc
+ISCHAIN-422,Sửa lỗi admin Community UI
+ISCHAIN-420,"[IVIRSE Website] Responsive màn hình ""Notification"" - Admin (iPad)"
+ISCHAIN-419,"[IVIRSE Website] Responsive màn hình ""Token Unlock"" - Admin (iPad)"
+ISCHAIN-421,"[IVIRSE Website] Responsive màn hình ""Admin list"" - Admin (iPad)"
+ISCHAIN-429,ISF_Vesting tool community_ Số đếm thông báo ở noti không khớp với số thông báo all
+ISCHAIN-448,ISF_Vesting tool community_ Không copy được wallet address
+ISCHAIN-442,Community_Notifications_Nút Status lỗi 
+ISCHAIN-384,"[IVIRSE Website] Sửa lỗi mất nút ""Connect Wallet"" sau khi disconnect ví"
+ISCHAIN-461,Community-Notifications-Lỗi nút Status
+ISCHAIN-458,ISF_Vesting tool community_ Droplist Status chưa lọc được theo trạng thái
+ISCHAIN-443,ISF_Vesting tool community_ Thông báo hiển thị chưa đúng khi nhấn Verify tại Community
+ISCHAIN-428,ISF_Vesting tool community_ Thông tin Status hiển thị chưa đúng định dạng
+ISCHAIN-432,ISF_Vesting tool community_ Chức năng tìm kiếm chưa được thực hiện
+ISCHAIN-483,Sửa bug không generate token khi vào notification Admin bằng Drawer 
+ISCHAIN-260,Responsive màn trade home ipad
+ISCHAIN-256,Xây UI Notification màn Community
+ISCHAIN-502,Ghép API notification
+ISCHAIN-472,[IVIRSE - Website] Community Admin
+ISCHAIN-475,[IVIRSE - Website] Community Admin
+ISCHAIN-474,[IVIRSE - Website] Community Admin
+ISCHAIN-505,Optimize app
+ISCHAIN-450,[Community] Xây dựng tính năng check validity của file campaign 
+ISCHAIN-477,ISF_Vesting tool community_Hiển thị tên file ở campaign khi đã thao tác xoá/ request
+ISCHAIN-440,ISF_Vesting tool community_Upload new campain
+ISCHAIN-434,ISF_Vesting tool community_ Upload new campaign lần 2 bị lỗi
+ISCHAIN-480,[IVIRSE - Website] Community Admin
+ISCHAIN-465,ISF_Vesting tool community_Lỗi ký duyệt Reject khi duyệt campaign mới

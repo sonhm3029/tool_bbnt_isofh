@@ -1,0 +1,17 @@
+Issue Key,Issue summary
+ISCHAIN-634,ISF_Data hub_Thiết kế giao diện màn hình Marketplace và Detail asset
+ISCHAIN-635,ISF_Data hub_Thiết kế giao diện màn hình Detail asset
+ISCHAIN-643,ISF_Data hub_Thiết kế giao diện màn hình Deposit
+ISCHAIN-655,ISF_Data hub_Vẽ màn hình Profile
+ISCHAIN-651,ISF_Data hub_Vẽ màn hình Profile
+ISCHAIN-654,ISF_Data hub_Vẽ màn hình Profile
+ISCHAIN-657,ISF_Data hub_Chỉnh sửa màn hình view detail
+ISCHAIN-670,Sửa lỗi khi chuyển trang không giữ đúng tab của menu trang Profile
+ISCHAIN-684,[IVIRSE] [Community - Campaign] Không tạo được campaign do FE không đọc được release date từ file template
+ISCHAIN-688,[IVIRSE] [Community - Admin List] Tạo thông báo khi admin đổi tên
+ISCHAIN-702,ISF_Data hub_Thiết kế màn hình Requests
+ISCHAIN-703,ISF_Data hub_Chỉnh sửa more filter trong màn hình Profile
+ISCHAIN-683,ISF_Data hub_Chỉnh sửa màn hình Marketplace_Filter
+ISCHAIN-721,[IVIRSE] [Community - Campaign] Không thể request approval một campaign
+ISCHAIN-701,ISF_Data hub_Chỉnh sửa view detail của dữ liệu khi nhấn chọn xem sản phẩm từ marketplace
+ISCHAIN-700,ISF_Data hub_Chỉnh sửa lại màn hình marketplace theo thiết kế mới

@@ -1,0 +1,75 @@
+Issue Key,Issue summary,Issue Status
+ISCHAIN-716,ISF_Data hub_Thiết kế BE của màn hình Listing data,DONE LIVE
+ISCHAIN-762,"Làm filter asset theo price, date, ",PASSED TEST
+ISCHAIN-765,Ghép API màn hình listing asset,DONE LIVE
+ISCHAIN-773,Ghép API tạo liked cho assets,DONE LIVE
+ISCHAIN-772,Ghép API asset vào datamarket place,DONE LIVE
+ISCHAIN-780,Làm API search asset cho các màn marketplace và collected,CLOSED
+ISCHAIN-779,Ghép API asset cho collected page,CLOSED
+ISCHAIN-781,Làm tính năng search by assetCId cho màn data marketplace và collected,CLOSED
+ISCHAIN-797,Cải thiện UX withdraw and deposit,DONE LIVE
+ISCHAIN-798,Cải thiện UI cho format currency chi tiết bệnh án,DONE LIVE
+ISCHAIN-800,Ghép function thực hiện cho breadcrumb màn asset detail,CLOSED
+ISCHAIN-801,Fix bug không search được data by cid ở trang khác màn data market,DONE LIVE
+ISCHAIN-803,Tạo API search liked asset màn profile-liked,DONE LIVE
+ISCHAIN-817,Lưu lại Draft của listing data vào BE,DONE LIVE
+ISCHAIN-818,Ghép API save draft cho asset,DONE LIVE
+ISCHAIN-844,Bỏ trường expired date cuar model,DONE LIVE
+ISCHAIN-843,Bỏ trường expired date,DONE LIVE
+ISCHAIN-819,[IVIRSE] [DataHub] [BE] Sửa hiển thị địa chỉ Owner,DONE LIVE
+ISCHAIN-820,"[IVIRSE] [DataHub] [FE] Sửa hiển thị trong mục Listed (Profile), lọc theo thời gian",DONE LIVE
+ISCHAIN-845,CHỉnh sửa lại BreadCrum theo nghiệp vụ,DONE LIVE
+ISCHAIN-846,Cải thiện UX cập nhật chức năng like,DONE LIVE
+ISCHAIN-850,Dựng API search by name màn liked,DONE LIVE
+ISCHAIN-849,"Cải thiện lại UI, UX, API màn Liked",DONE LIVE
+ISCHAIN-848,[IVIRSE] [Community - Campaign] Không thể nhập ngày theo đúng định dạng mm/dd/yyyy trên template (Macbook) ,PASSED TEST
+ISCHAIN-854,[IVIRSE] [Community - Campaign] Chỉnh sửa lại template campaign (P2),DEPLOYED
+ISCHAIN-859,Thêm trường Reason và medical unit vào model assset,DONE LIVE
+ISCHAIN-857,ISF_Data hub_chỉnh sửa màn list data,DONE LIVE
+ISCHAIN-851,ISF_Data hub_Các trường thông tin khi list asset,CLOSED
+ISCHAIN-863,Sửa lại UX của account panel,DONE LIVE
+ISCHAIN-864,Bỏ hashtag trong model assset,CLOSED
+ISCHAIN-879,[Ivirse - Website][Filter - Data Market] Thay đổi lựa chọn trong currencies,DONE LIVE
+ISCHAIN-861,ISF_Data hub_Filter status theo bộ lọc,DONE LIVE
+ISCHAIN-888,ISF_Data hub_Filter trên màn hình datahub,DONE LIVE
+ISCHAIN-876,[Ivirse - Website][Trạng thái Data - Profile] Chỉnh sửa chính tả cho trạng thái Data,DONE LIVE
+ISCHAIN-866,Bỏ trường hashtag khi list asset,CLOSED
+ISCHAIN-889,Thực hiện filter Others theo keywords,CLOSED
+ISCHAIN-880,[Ivirse - Website][Hiển thị số lượt View - Data Detail Screen] Hiển thị số lượt view ,DONE LIVE
+ISCHAIN-743,ISF_Data hub_Tạo BE và thiết kế màn hình Liked,DONE LIVE
+ISCHAIN-897,ISF_Data hub_Hiển thị/ ẩn hiển thị nút request access,DONE LIVE
+ISCHAIN-831,[IVIRSE - Website] [Bộ đếm thời gian Expired time - Data Market] Sửa lại bộ đếm thời gian Expired time,DONE LIVE
+ISCHAIN-919,Ghép API tính views cho asset,CLOSED
+ISCHAIN-910,[Chi tiết hssk] Lỗi UI và thao tác trên mục Others,DONE LIVE
+ISCHAIN-895,Tạo chức năng tính views cho assets,CLOSED
+ISCHAIN-902,ISF_Data hub_Nhấn save draft khi list data,DONE LIVE
+ISCHAIN-904,ISF_Data hub_chỉnh sửa lại breadcrumb,DONE LIVE
+ISCHAIN-925,"[Profile - List data] Ẩn trường thông tin ""Reason""",DONE LIVE
+ISCHAIN-922,ISF_Data hub_Lỗi nhấn hiển thị,DONE LIVE
+ISCHAIN-914,[Data market] Lỗi hiển thị asset trên datamarket,DONE LIVE
+ISCHAIN-913,[Datamarket] Lỗi UI và thao tác asset trên data market,DONE LIVE
+ISCHAIN-789,[Ivirse - Website][Filter Data - Data Market] Thêm backend cho Filter,DONE LIVE
+ISCHAIN-718,ISF_Data hub_Thiết kế BE của màn hình Buy asset,DONE LIVE
+ISCHAIN-905,ISF_Data hub_nhấn request data,DONE LIVE
+ISCHAIN-921,ISF_Data hub_ Deposit với mức minimum = 0.066 ivie,DONE LIVE
+ISCHAIN-932,[Datamarket - Profile] Request access failed,DONE LIVE
+ISCHAIN-947,ISF_Data hub_Ẩn tên bệnh nhân trong view detail,DONE LIVE
+ISCHAIN-936,ISF_Data hub_Đổi hiển thị nút đối với data granted,DONE LIVE
+ISCHAIN-927,[Data market] Buyer chỉ được phép request access 1 lần duy nhất trên 1 data asset,DONE LIVE
+ISCHAIN-943,ISF_Data hub_Không nhấn nút save draft khi list data,DONE LIVE
+ISCHAIN-949,Thêm status để lọc lại phần listed của profile,CLOSED
+ISCHAIN-1009,[IVIRSE] [GameFi] Dựng BE cho Dapps - Màn: Add log inputs,CLOSED
+ISCHAIN-1012,Sửa lại max lengh cho description của model assets là 1000 kí tự,RESOLVED
+ISCHAIN-1010,ISF_Data hub_chỉnh sửa lại maxlength description,DEPLOYED
+ISCHAIN-1005,ISF_Data hub_Chỉnh sửa lại nội dung notification,TEST ON DEVELOP
+ISCHAIN-1022,ISF_Data hub_Sắp xếp data theo thứ tự thời gian,DEPLOYED
+ISCHAIN-1025,[Profile] Mở màn hình Collected ngay khi click vào Profile trên menu,PASSED TEST
+ISCHAIN-1028,ISF_Data hub_Đổi màu chữ của nút clear all,DEPLOYED
+ISCHAIN-908,"[Filter HSSK] Cải thiện lại toàn bộ UI, tính năng lọc hssk",PASSED TEST
+ISCHAIN-1036,[IVIRSE] [Website] Tạo liên kết đến Connect Wallet từ trang chủ,PASSED TEST
+ISCHAIN-1041,ISF_Data hub_ Không dùng được nút Click here to explore ,PASSED TEST
+ISCHAIN-890,Ghép API Others Asset,CLOSED
+ISCHAIN-944,Build production bản mới,CLOSED
+ISCHAIN-955,Sửa lại UI filter màn profile theo đúng design,CLOSED
+ISCHAIN-1038,ISF_Data hub_Không dùng được chức năng tìm kiếm data trên data marketplace,TEST ON DEVELOP
+ISCHAIN-1037,ISF_Data hub_Sắp xếp lại thứ tự trong tab granted/ owner/ listed/ reported,TEST ON DEVELOP
