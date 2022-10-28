@@ -83,7 +83,7 @@ context = {
     'table_ticket':table_tickets,
 }
 
-file_name = 'Hoàng Minh Sơn- BB nghiệm thu CTV-T9.2022'
+file_name = 'Hoàng Minh Sơn- BB nghiệm thu CTV-T10.2022'
 
 template.render(context)
 template.save(f"{file_name}.docx")
