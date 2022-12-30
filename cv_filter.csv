@@ -1,20 +1,22 @@
 Issue Key,Issue summary,Issue Status
-ISCHAIN-1068,"[IVIRSE - Website] [Deposit Failed Notification - Marketplace] Thêm button ""Cancel"" cho popup thông báo Deposit Failed",RESOLVED
-ISCHAIN-1039,[IVIRSE] [GameFi] Dựng BE cho Dapps - Màn: Change avatar set,CLOSED
-ISCHAIN-1076,"[IVIRSE] [GameFi] Viết API ""Uploads"" - Màn: Change avatar set",CLOSED
-ISCHAIN-1069,[IVIRSE - Website] [List Data - Owned/Profile] Sửa lỗi báo Listing Failed khi đã list thành công,RESOLVED
-ISCHAIN-1046,"Sửa, responsive màn tutorial cho hợp lý với các kích thước màn hình",DONE LIVE
-ISCHAIN-1073,Cải thiện chức năng scroll đến view khi search asset màn Datahub,DONE LIVE
-ISCHAIN-1124,"[IVIRSE] [GameFi] Thay đổi logic màn ""Add logs input""",PASSED TEST
-ISCHAIN-1131,[IVIRSE] [GameFi] Thêm trường check tính streak cho model logs,PASSED TEST
-ISCHAIN-1137,[IVIRSE] [GameFi] Tạo API lấy nhạc thiền - Màn: Recommendations & Insights,CLOSED
-ISCHAIN-1133,[IVIRSE][GameFi] Xây dựng API tính streak cho logs time,PASSED TEST
-ISCHAIN-1154,[AI demo] Tạo màn hình predictions cho demo AI project,RESOLVED
-ISCHAIN-1156,[AI demo] Dựng BE cho model AI brain tumor prediction,RESOLVED
-ISCHAIN-1155,[AI demo] Ghép API cho màn AI prediction,RESOLVED
-ISCHAIN-1159,[AI demo] Responsive Ai demo page,RESOLVED
-ISCHAIN-1157,[AI demo] Nghiên cứu mô hình Deep learning dự đoán ảnh ung thư não MRI,DONE LIVE
-ISCHAIN-1162,[IVIRSE] [Website] Chỉnh sửa một số nội dung và navigation trên web,PASSED TEST
-ISCHAIN-1236,[IVIRSE] [GameFi] Thêm trường tính điểm trung bình các daily log ,TEST ON DEVELOP
-ISCHAIN-1207,ISF_CMS_Thiết kế giao diện màn hình Account setting,RESOLVED
-ISCHAIN-1209,ISF_CMS_Ghép API màn hình account setting,RESOLVED
+ISCHAIN-1494,IAPP_CMS_Tạo lại components,TEST ON DEVELOP
+ISCHAIN-1495,ISF_CMS_Chỉnh sửa giao diện trong New post,DEPLOYED
+ISCHAIN-1406,[Datahub] [Notification] BE - Tính năng gửi thông báo tới user khi xử lý các giao dịch,PASSED TEST
+ISCHAIN-1523,[Datahub] Thêm icon clear text ở các input search,PASSED TEST
+ISCHAIN-1512,[Datahub] [Profile] Lỗi hiển thị thời gian request access màn hình request,PASSED TEST
+ISCHAIN-1506,[Datahub] [Modify data's name] Lỗi hiển thị và validate khi sửa tên listing data,PASSED TEST
+ISCHAIN-1509,[Datahub] [Marketplace] Cải thiện UI/UX màn marketplace,PASSED TEST
+ISCHAIN-1550,[IVIRSE] [Staking] Dựng BE cho Quản Lý Staking ,RESOLVED
+ISCHAIN-1558,[IVIRSE] [Staking] Dựng BE cho màn History,RESOLVED
+ISCHAIN-1562,[IVIRSE][Wallet] Làm BE và ghép logic cho tạo mới ví ,CLOSED
+ISCHAIN-1564,[IVIRSE][WALLET] Làm BE và ghép logic cho phép chuyển mạng có sẵn,IN REVIEW
+ISCHAIN-1563,[IVIRSE][Wallet] Làm BE đăng nhập bằng mật khẩu và biometrics,CLOSED
+IAPP-40,IAPP_Ghép logic cho phần tạo ví,RESOLVED
+IAPP-41,IAPP_Tạo faceid và fingerprint,RESOLVED
+IAPP-43,IAPP_Ghép logic phần change network trên app,RESOLVED
+ISCHAIN-1591,"Thực hiện xây dựng lại kịch bản sanbot, implement với RASA",CLOSED
+ISCHAIN-1590,"Nghiên cứu cách hoạt động của Rasa, framework chatbot",CLOSED
+ISCHAIN-1589,"Nghiên cứu các mô hình NLP, các framework thường dùng",CLOSED
+ISCHAIN-1592,Deploy chatbot lên telegram,CLOSED
+IAPP-48,IAPP_Import token,RESOLVED
+IAPP-72,[IAPP] View information of wallet,RESOLVED

@@ -1,31 +1,131 @@
 "Issue Key","Issue summary","Hours","Work date","Username","Full name","Period","Account Key","Account Name","Account Lead","Account Category","Account Customer","Activity Name","Component","All Components","Version Name","Issue Type","Issue Status","Project Key","Project Name","Epic","Epic Link","Work Description","Parent Key","Reporter","External Hours","Billed Hours","Issue Original Estimate","Issue Remaining Estimate","Location Name","Developer","BA Point","Coding/ Fix bug Point","Testing/ Checking Point","BA","Tester","Khách hàng (site)"
-"ISCHAIN-1068","[IVIRSE - Website] [Deposit Failed Notification - Marketplace] Thêm button ""Cancel"" cho popup thông báo Deposit Failed","8.5","2022-10-03 08:56","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Test","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Đã thêm btn tắt popup
- !image-2022-10-03-08-57-20-723.png|thumbnail! ","","huy.nv","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","","",""
-"ISCHAIN-1039","[IVIRSE] [GameFi] Dựng BE cho Dapps - Màn: Change avatar set","1","2022-10-03 10:07","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Sub-task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","ISCHAIN-1008","hung.dd","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hung.dd(hung.dd)",""
-"ISCHAIN-1076","[IVIRSE] [GameFi] Viết API ""Uploads"" - Màn: Change avatar set","1","2022-10-03 17:24","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Sub-task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","ISCHAIN-1008","hung.dd","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hung.dd(hung.dd)",""
-"ISCHAIN-1069","[IVIRSE - Website] [List Data - Owned/Profile] Sửa lỗi báo Listing Failed khi đã list thành công","8.5","2022-10-04 08:33","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Bug","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Đã fix và build","","huy.nv","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","","",""
-"ISCHAIN-1046","Sửa, responsive màn tutorial cho hợp lý với các kích thước màn hình","8.5","2022-10-05 12:00","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Improvement","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Dev làm đúng yêu cầu. 
-10 Điểm","","son.hm","","8.5","0","0","ISOFH","duc.tm(duc.tm)","0","0","0","son.hm(son.hm)","son.hm(son.hm)",""
-"ISCHAIN-1073","Cải thiện chức năng scroll đến view khi search asset màn Datahub","8.5","2022-10-06 11:55","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Improvement","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","quynh.nh1","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
-"ISCHAIN-1124","[IVIRSE] [GameFi] Thay đổi logic màn ""Add logs input""","8.5","2022-10-10 16:06","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Improvement","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hung.dd","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","hung.dd(hung.dd)",""
-"ISCHAIN-1131","[IVIRSE] [GameFi] Thêm trường check tính streak cho model logs","8.5","2022-10-11 23:25","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Improvement","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hung.dd","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","hung.dd(hung.dd)",""
-"ISCHAIN-1137","[IVIRSE] [GameFi] Tạo API lấy nhạc thiền - Màn: Recommendations & Insights","8.5","2022-10-13 10:28","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Sub-task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","ISCHAIN-1008","hung.dd","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hung.dd(hung.dd)",""
-"ISCHAIN-1133","[IVIRSE][GameFi] Xây dựng API tính streak cho logs time","8.5","2022-10-14 02:03","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Improvement","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hung.dd","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","hung.dd(hung.dd)",""
-"ISCHAIN-1154","[AI demo] Tạo màn hình predictions cho demo AI project","3","2022-10-17 11:05","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Feature","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","3","","0","ISOFH","son.hm(son.hm)","0","0","0","quynh.nh1(JIRAUSER15201)","",""
-"ISCHAIN-1156","[AI demo] Dựng BE cho model AI brain tumor prediction","3","2022-10-17 11:47","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Feature","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Xong
-Link project:
-https://github.com/sonmh2329/Brain_tumor_detection_django_api","","quynh.nh1","","3","","0","ISOFH","son.hm(son.hm)","0","0","0","quynh.nh1(JIRAUSER15201)","",""
-"ISCHAIN-1155","[AI demo] Ghép API cho màn AI prediction","3","2022-10-17 15:46","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Feature","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","3","","0","ISOFH","son.hm(son.hm)","0","0","0","quynh.nh1(JIRAUSER15201)","",""
-"ISCHAIN-1159","[AI demo] Responsive Ai demo page","8.5","2022-10-20 17:43","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Feature","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","quynh.nh1","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","quynh.nh1(JIRAUSER15201)","",""
-"ISCHAIN-1157","[AI demo] Nghiên cứu mô hình Deep learning dự đoán ảnh ung thư não MRI","1","2022-10-21 09:16","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Feature","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","","","son.hm","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","son.hm(son.hm)","son.hm(son.hm)",""
-"ISCHAIN-1157","[AI demo] Nghiên cứu mô hình Deep learning dự đoán ảnh ung thư não MRI","8.5","2022-10-21 09:16","son.hm","Hoàng Minh Sơn","1022","","","","","","DataHub","DataHub","DataHub","","Feature","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","son.hm","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","son.hm(son.hm)","son.hm(son.hm)",""
-"ISCHAIN-1162","[IVIRSE] [Website] Chỉnh sửa một số nội dung và navigation trên web","1","2022-10-21 09:31","son.hm","Hoàng Minh Sơn","1022","","","","","","Unknown","Unknown","Unknown","","Improvement","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hung.dd","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","hung.dd(hung.dd)",""
-"ISCHAIN-1236","[IVIRSE] [GameFi] Thêm trường tính điểm trung bình các daily log ","8.5","2022-10-27 09:42","son.hm","Hoàng Minh Sơn","1022","","","","","","GameFi","GameFi","GameFi","","Improvement","TEST ON DEVELOP","ISCHAIN","ISF_ISOFHCHAIN","","","Done
-","","hung.dd","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","",""
-"ISCHAIN-1207","ISF_CMS_Thiết kế giao diện màn hình Account setting","1","2022-10-27 13:03","son.hm","Hoàng Minh Sơn","1022","","","","","","Website","Website","Website","","Task","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!
+"ISCHAIN-1203","ISF_CMS_Thiết kế màn hình Posts","8.5","2022-11-03 08:40","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","quynh.nh1","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1201","ISF_CMS_Thiết kế giao diện màn hình ","8.5","2022-11-04 09:07","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","quynh.nh1","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1205","ISF_CMS_Thiết kế giao diện màn hình Media","1","2022-11-04 16:00","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1250","ISF_CMS_Thêm 1 trường thông tin trong new post","8.5","2022-11-07 08:40","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","quynh.nh1","","8.5","0","0","ISOFH","son.hm(son.hm)","2","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1345","Thêm điều kiện lọc theo author và active","1","2022-11-07 17:51","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Improvement","DEPLOYED","ISCHAIN","ISF_ISOFHCHAIN","","","","","son.hm","","1","0","0","ISOFH","tuan.dq(tuan.dq)","0","0","0","son.hm(son.hm)","son.hm(son.hm)",""
+"ISCHAIN-1343","[CMS]- Chặn không cho user đăng nhập khi active = False","1","2022-11-07 17:51","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Improvement","DEPLOYED","ISCHAIN","ISF_ISOFHCHAIN","","","","","son.hm","","1","0","0","ISOFH","tuan.dq(tuan.dq)","0","0","0","son.hm(son.hm)","son.hm(son.hm)",""
+"ISCHAIN-1344","[IVIRSE] [GameFi] Dựng BE cho Dapps - Tạo API lấy các bài báo gợi ý theo số điểm cảm xúc","8.5","2022-11-10 09:36","son.hm","Hoàng Minh Sơn","1122","","","","","","GameFi","GameFi","GameFi","","Sub-task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+","ISCHAIN-1008","hung.dd","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hung.dd(hung.dd)",""
+"ISCHAIN-1368","ISF_CMS_Không login vào được đối với role CTV","1","2022-11-10 11:05","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1316","[Datahub] FE - Cải thiện UI màn hình data detail screen","1","2022-11-10 17:41","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1326","[Datahub] BE - Xử lý share link social media","1","2022-11-10 17:42","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1361","ISF_CMS_Cho phép chọn nhiều hơn 1 component","1","2022-11-11 09:04","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done!
+ĐỢi BE làm","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1367","ISF_CMS_Chỉnh lại giao diện CMS","1","2022-11-11 09:07","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","TESTING LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"IOOM-16","[IOOM] [MoodTrack] BE validate không cho người dùng log trong quá khứ và tương lai","1","2022-11-11 14:13","son.hm","Hoàng Minh Sơn","1122","","","","","","Mood Tracking","Mood Tracking","Mood Tracking","","BackEnd","RESOLVED","IOOM","IVIRSE OOM","","Mood Tracking","Done!","","quynh.ln","","1","2","1","ISOFH","","0","0","0","quynh.ln(JIRAUSER14912)","",""
+"IOOM-14","[IOOM] [Reward] BE validate khi người dùng swap Oom -> IHI","1","2022-11-11 14:17","son.hm","Hoàng Minh Sơn","1122","","","","","","Reward","Reward","Reward","","BackEnd","RESOLVED","IOOM","IVIRSE OOM","","Reward","Done
+ !image-2022-11-11-14-17-39-929.png|thumbnail! ","","quynh.ln","","1","","0","ISOFH","","0","0","0","quynh.ln(JIRAUSER14912)","",""
+"ISCHAIN-1327","[Datahub] BE - Xử lý ẩn/hiện data trên marketplace","4.5","2022-11-11 15:15","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","4.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1366","ISF_CMS_Không chọn được ảnh thumbnail","8.5","2022-11-14 08:28","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+","","quynh.nh1","","8.5","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1370","Tạo thêm trường owner và isShow Data cho asset","1","2022-11-14 08:53","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Improvement","DEPLOYED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1378","Dựng BE trả về count asset","1","2022-11-14 09:29","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Improvement","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","",""
+"ISCHAIN-1008","[IVIRSE] [GameFi] Dựng BE cho Dapps","1","2022-11-14 09:42","son.hm","Hoàng Minh Sơn","1122","","","","","","GameFi","GameFi","GameFi","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done!","","hung.dd","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","hung.dd(hung.dd)",""
+"ISCHAIN-1317","[Datahub] FE BE - Cho phép đổi tên data khi listing lên marketplace","1","2022-11-14 10:04","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1360","ISF_CMS_Tạo mới bài viết","1","2022-11-14 14:18","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","TESTING LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1365","ISF_CMS_Không sử dụng được nút edit ở màn hình Dashboard","1","2022-11-14 14:18","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Task","CLOSED","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1386","ISF_CMS_Ẩn plugin","1","2022-11-17 08:40","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1384","ISF_CMS_Đổi tên subtitle thành meta description","1","2022-11-17 08:42","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done
 
-Link trang chính login:
+","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1381","ISF_CMS_Chữ Ivirse management ","1","2022-11-17 08:51","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1380","ISF_CMS_ Trường thông tin date submmited","1","2022-11-17 09:07","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Xong","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1382","ISF_CMS_Phần media","1","2022-11-17 09:37","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done
 
-/cms-management","","quynh.nh1","","1","","0","ISOFH","son.hm(son.hm)","0","0","0","","",""
-"ISCHAIN-1209","ISF_CMS_Ghép API màn hình account setting","8.5","2022-10-28 11:50","son.hm","Hoàng Minh Sơn","1022","","","","","","Website","Website","Website","","Task","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done!
-","","quynh.nh1","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","","",""
+","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1317","[Datahub] FE BE - Cho phép đổi tên data khi listing lên marketplace","1","2022-11-17 10:45","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1396","[Datahub] [Deposit] Lỗi hiển thị giá trị balance","1","2022-11-17 11:26","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1395","[Datahub] [Deposit] Ẩn các token chưa hỗ trợ và hiển thị đúng số token từ ví","1","2022-11-17 12:23","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Improvement","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1316","[Datahub] FE - Cải thiện UI màn hình data detail screen","1","2022-11-17 15:01","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Đã có , tuy nhiên nên list data mới lên vì data cũ chưa có trường owner => lỗi
+","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1327","[Datahub] BE - Xử lý ẩn/hiện data trên marketplace","1","2022-11-17 15:06","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1394","[IVIRSE] [Community] Xóa biểu tượng MetaMask & mô tả bên cạnh địa chỉ ví tại màn hình claim token","8.5","2022-11-18 09:08","son.hm","Hoàng Minh Sơn","1122","","","","","","Community","Community","Community","","Improvement","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hung.dd","","8.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","hung.dd(hung.dd)","hung.dd(hung.dd)",""
+"ISCHAIN-1402","Chình lại BE để thay thế hoàn toàn các thao tác show data trên giao diện","1","2022-11-18 09:58","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Improvement","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+
+Model asset sẽ có các trường như sau:
+
+{
+    // _id: { type: Number, required: true, index: { unique: true } },
+    // Data information1
+    assetCId: { type: String, required: true, unique: true },
+    category: {
+      type: Number,
+      required: true,
+      enum: CategoryEnum,
+    },
+    description: { type: String, required: true, maxLength: 1000 },
+    keywords: { type: Array },
+    // Sale information
+    avatar: { type: String },
+    price: { type: Number, required: true },
+    status: { type: Number, required: true, enum: StatusEnum },
+    reason: { type: String, maxLength: 100 },
+    medicalUnit: { type: Number, enum: MedicalUnitEnum },
+    viewsCount: { type: Number, default: 10 },
+    owner: { type: String, required: true },
+    isShowOnMarket: { type: Boolean, default: true },
+    icdNames: { type: Array },
+
+    // tradingStatus
+    tradingStatus: {
+      type: Number,
+      enum: TradingStatusEnum,
+      required: true,
+      default: 0,
+    },
+    currencies: {
+      type: Number,
+      enum: CurrenciesEnum,
+      required: true,
+      default: 0,
+    },
+    // Version to check that data is on datahub v1 or v2
+    // Version v1 or missing will be update to v2 soon
+    version: { type: Number, default: 2 },
+  },
+  {
+    // _id: false,
+    // autoIndex: false,
+    /*When set autoIndex to false => db not check unique */
+    timestamps: {
+      createdAt: ""create_at"",
+      updatedAt: ""update_at"",
+    },
+  }","","quynh.nh1","","1","","0","ISOFH","son.hm(son.hm)","0","0","0","quynh.nh1(JIRAUSER15201)","",""
+"ISCHAIN-1420","Tạo API sort theo price, listed, granted marketplace","1","2022-11-21 12:52","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Improvement","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","",""
+"ISCHAIN-1320","[Datahub] FE BE - Thêm tính năng sort list data trên marketplace","4.5","2022-11-21 12:56","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","4.5","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1319","[Datahub] FE BE - Thêm 2 tab filter favorites và popular trên marketplace","1","2022-11-21 12:58","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done:
+
+- Khi click vào tab favorites => Lấy data theo thứ tự like giảm dần
+- Khi click vào tab popular => lấy data theo thứ tự lượt view count giảm dần
+","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1328","[Datahub] FE - Dựng giao diện ẩn/hiện data trên marketplace","1","2022-11-21 13:00","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done:
+
+User điều chỉnh ẩn hiển data trong màn profile","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1416","[Datahub] [Request access] Không đóng được popup deposit","1","2022-11-21 13:18","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","Datahub v1.0.1","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1407","[Datahub] [Notification] FE - Dựng UI gửi thông báo khi xử lý giao dịch","1","2022-11-21 23:41","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1409","[Datahub] [Set new price data] FE - Dựng UI màn hình set new price data","8.5","2022-11-22 01:23","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","8.5","0","2.3333333333333335","ISOFH","tuan.dq(tuan.dq)","0","0","0","hieu.nh(hieu.nh)","",""
+"ISCHAIN-1312","[Datahub] Data không cập nhật được dữ liệu lượt thích, view, ngày listing","1","2022-11-22 01:24","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","Datahub v1.0.1","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1320","[Datahub] FE BE - Thêm tính năng sort list data trên marketplace","1","2022-11-24 08:48","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","DDax lm","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1416","[Datahub] [Request access] Không đóng được popup deposit","1","2022-11-24 08:50","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","Datahub v1.0.1","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","xong
+","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1409","[Datahub] [Set new price data] FE - Dựng UI màn hình set new price data","1","2022-11-24 09:19","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","2.3333333333333335","ISOFH","tuan.dq(tuan.dq)","0","0","0","hieu.nh(hieu.nh)","",""
+"ISCHAIN-1442","[Datahub] [Profile] Xoá hiển thị filter mặc định khi vào tab listed","1","2022-11-24 10:23","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done
+","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1416","[Datahub] [Request access] Không đóng được popup deposit","1","2022-11-24 11:43","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","Datahub v1.0.1","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1383","ISF_CMS_ Sau khi chèn link vào phần bài viết đang lỗi không cho nhập liệu văn bản bình thường","1","2022-11-24 12:58","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Lưu ý, khi không muốn link nữa thì:
+
+Gõ mũi tên sang ngang trên bàn phím
+Bấm phím cách để gõ từ mới","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","2","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1385","ISF_CMS_Thông tin date picker và time picker","1","2022-11-24 13:21","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1403","ISF_CMS_Căn chỉnh lại phần text của description rộng ra","1","2022-11-24 13:37","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1387","ISF_CMS_Phần account setting thêm chức năng xoá theo từng dòng","1","2022-11-24 13:52","son.hm","Hoàng Minh Sơn","1122","","","","","","Unknown","Unknown","Unknown","","Bug","DONE LIVE","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","1","0","0","ISOFH","son.hm(son.hm)","1","0","0","quynh.nh1(JIRAUSER15201)","quynh.nh1(JIRAUSER15201)",""
+"ISCHAIN-1449","[Datahub] [Detail data] Trang detail của granted data trên marketplace vẫn hiển thị button cho phép request access","1","2022-11-24 15:20","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1314","[Datahub] FE - Dựng thiết kế màn hình History","1","2022-11-24 16:48","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","","Feature","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","hieu.nh(hieu.nh)","hieu.nh(hieu.nh)",""
+"ISCHAIN-1416","[Datahub] [Request access] Không đóng được popup deposit","1","2022-11-25 09:33","son.hm","Hoàng Minh Sơn","1122","","","","","","DataHub","DataHub","DataHub","Datahub v1.0.1","Bug","PASSED TEST","ISCHAIN","ISF_ISOFHCHAIN","","","Donete","","hieu.nh","","1","0","0","ISOFH","son.hm(son.hm)","0","0","0","","hieu.nh(hieu.nh)",""
+"ISCHAIN-1458","ISF_CMS_Chỉnh sửa content","8.5","2022-11-25 17:32","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","","",""
+"ISCHAIN-1459","ISF_CMS_Chỉnh sửa UI/UX","8.5","2022-11-28 18:24","son.hm","Hoàng Minh Sơn","1122","","","","","","Website","Website","Website","","Bug","RESOLVED","ISCHAIN","ISF_ISOFHCHAIN","","","Done","","quynh.nh1","","8.5","","0","ISOFH","son.hm(son.hm)","0","0","0","","",""

@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-df = pd.read_csv('./list_ticket.csv')
+df = pd.read_csv('./list_ticket_t12.csv')
 
 
 # Show df
@@ -39,6 +39,7 @@ template = DocxTemplate('./template2.docx')
 
 # Template variables
 month = date.today().month
+# month = 12
 year = date.today().year
 first, last = calendar.monthrange(year, month)
 
@@ -83,7 +84,7 @@ context = {
     'table_ticket':table_tickets,
 }
 
-file_name = 'Hoàng Minh Sơn- BB nghiệm thu CTV-T10.2022'
+file_name = 'Hoàng Minh Sơn- BB nghiệm thu CTV-T12.2022'
 
 template.render(context)
 template.save(f"{file_name}.docx")
