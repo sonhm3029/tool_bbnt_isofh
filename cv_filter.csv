@@ -1,22 +1,47 @@
 Issue Key,Issue summary,Issue Status
-ISCHAIN-1494,IAPP_CMS_Tạo lại components,TEST ON DEVELOP
-ISCHAIN-1495,ISF_CMS_Chỉnh sửa giao diện trong New post,DEPLOYED
-ISCHAIN-1406,[Datahub] [Notification] BE - Tính năng gửi thông báo tới user khi xử lý các giao dịch,PASSED TEST
-ISCHAIN-1523,[Datahub] Thêm icon clear text ở các input search,PASSED TEST
-ISCHAIN-1512,[Datahub] [Profile] Lỗi hiển thị thời gian request access màn hình request,PASSED TEST
-ISCHAIN-1506,[Datahub] [Modify data's name] Lỗi hiển thị và validate khi sửa tên listing data,PASSED TEST
-ISCHAIN-1509,[Datahub] [Marketplace] Cải thiện UI/UX màn marketplace,PASSED TEST
-ISCHAIN-1550,[IVIRSE] [Staking] Dựng BE cho Quản Lý Staking ,RESOLVED
-ISCHAIN-1558,[IVIRSE] [Staking] Dựng BE cho màn History,RESOLVED
-ISCHAIN-1562,[IVIRSE][Wallet] Làm BE và ghép logic cho tạo mới ví ,CLOSED
-ISCHAIN-1564,[IVIRSE][WALLET] Làm BE và ghép logic cho phép chuyển mạng có sẵn,IN REVIEW
-ISCHAIN-1563,[IVIRSE][Wallet] Làm BE đăng nhập bằng mật khẩu và biometrics,CLOSED
-IAPP-40,IAPP_Ghép logic cho phần tạo ví,RESOLVED
-IAPP-41,IAPP_Tạo faceid và fingerprint,RESOLVED
-IAPP-43,IAPP_Ghép logic phần change network trên app,RESOLVED
-ISCHAIN-1591,"Thực hiện xây dựng lại kịch bản sanbot, implement với RASA",CLOSED
-ISCHAIN-1590,"Nghiên cứu cách hoạt động của Rasa, framework chatbot",CLOSED
-ISCHAIN-1589,"Nghiên cứu các mô hình NLP, các framework thường dùng",CLOSED
-ISCHAIN-1592,Deploy chatbot lên telegram,CLOSED
-IAPP-48,IAPP_Import token,RESOLVED
-IAPP-72,[IAPP] View information of wallet,RESOLVED
+IAPP-342,[Wallet connect] Tạo BE của wallet connect,CLOSED
+IAPP-363,[Wallet connect] Làm luồng lắng nghe sự kiện kết nối ví của dapp cho ví,DONE LIVE
+IAPP-366,[Wallet connect] Làm luồng lắng nghe event và chuyển network dapp bằng ví,DONE LIVE
+IAPP-365,[Wallet connect] Làm luông lắng nghe event và thay đổi tài khoản khi kết nối dapp bằng ví,DONE LIVE
+IAPP-343,[Wallet connect] Tạo FE của kết nối ví,CLOSED
+IAPP-367,[Wallet connect] Làm chức năng kill session khi bị quá giới hạn session hoặc kill session bằng dapp,DONE LIVE
+IAPP-364,[Wallet connect] Làm chức năng lưu sessions khi đã kết nối dapp cho ví,DONE LIVE
+IPG-41,[Login] Tạo FE cho login,CLOSED
+IPG-38,[Register] Tạo FE cho register,PASSED STABLE
+IPG-81,[Register] Dựng Fe redirect verify user navigate từ email,CLOSED
+IPG-82,[Login] Dựng Fe connect wallet,CLOSED
+IPG-43,[Forgot password] Tạo FE cho forgot password,PASSED TEST
+IPG-75,[Register] Ghép APi cho phép tạo tại khoản mới và nhận email,CLOSED
+IPG-74,[Login] ghép API cho Login,PASSED TEST
+IPG-80,[Register] Ghép API verify người đăng kí tại email,CLOSED
+IPG-83,[Login] Ghép API tạo wallet cho Login,CLOSED
+IPG-92,[Login] Ghép API setup wallet với địa chỉ ví có sẵn,PASSED TEST
+IPG-46,[Create invoices] Tạo FE cho create invoices,PASSED TEST
+IPG-76,[Forgot passwor] ghép APi cho phép thực hiện luồng forgot password,CLOSED
+IPG-93,[Login] Ghép API connect wallet to setup,CLOSED
+IPG-99,[Connect wallet] Nút copy ở màn hình create account không sử dụng được,PASSED TEST
+IPG-103,[Register merchant] Show message khi confirm password đã matching với password,PASSED TEST
+IPG-111,Đổi hiển thị địa chỉ mail thành địa chỉ ví sau khi người dùng đăng nhập thành công vào hệ thống,PASSED TEST
+IPG-119,[Login merchant] Change 60s -> 03:00 minutes trên button khi resend,PASSED TEST
+IPG-113,[Connect wallet] Có thể connect = smart connect address,PASSED TEST
+IPG-115,Show nhiều error message khi click button nhiều lần,PASSED TEST
+IPG-126,[IPG][Forgot password] Không show error message khi code = blank,PASSED TEST
+IAPP-357,Kết nối IAPP với web Ivirse,DONE LIVE
+IPG-100,[Reset pwd] Check lại FE chưa đúng ở màn hình đầu tiên reset,PASSED TEST
+IPG-118,Nhất quán việc show message,PASSED TEST
+IPG-77,[Create invoices] Ghép APi cho phép Create invoices,CLOSED
+IAPP-345,Không thực hiện chuyển tiền được bằng web wallet.ivirse.com sau khi kết nối ví,DONE LIVE
+IAPP-359,[IAPP][Wallet connect] Sort theo Desc trên history transaction,DONE LIVE
+IAPP-349,Báo lỗi khi kết nối thất bại trên Ivirse wallet với các app khác,DONE LIVE
+IAPP-344,Scan mã QR trên desktop bị thoát app,DONE LIVE
+IAPP-352,[IAPP][Wallet Connect ] Không auto navigate về app vendor khi connect thành công hoặc connect fail,DONE LIVE
+IAPP-361,[Wallet connect] Làm luồng lắng nghe sự kiện eth_senTransactions từ dapp cho ví,DONE LIVE
+IAPP-362,[Wallet connect] Làm luồng lắng nghe sự kiện personal_sign từ dapp cho ví,DONE LIVE
+IPG-166,[Connect wallet] UI khi connect = QR không đúng,REOPENED
+ISCHAIN-2065,[AI] Input luồng intro của chatbot,DONE LIVE
+ISCHAIN-2062,[AI] Input triệu chứng Vaginal bleeding - emergency case 1,DONE LIVE
+ISCHAIN-2064,[AI][FE] Dựng frontend cho chatbot,DONE LIVE
+ISCHAIN-2061,[AI] Input triệu chứng Vaginal bleeding - emergency case 2,DONE LIVE
+ISCHAIN-2059,[AI] Input triệu chứng Vaginal bleeding - emergency case 4,DONE LIVE
+IAPP-369,[IAPP][Wallet Connect ] Show một đoạn code khi confirm giao dịch nhưng không đủ phí,DONE LIVE
+ISCHAIN-2063,[AI] Input luồng ending của chatbot,DONE LIVE

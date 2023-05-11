@@ -11,7 +11,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-df = pd.read_csv('./list_ticket_t12.csv')
+def render_date_num(value):
+    return f"{0 if value < 10 else ''}{value}"
+
+df = pd.read_csv('./list_ticket.csv')
 
 
 # Show df
@@ -39,7 +42,7 @@ template = DocxTemplate('./template2.docx')
 
 # Template variables
 month = date.today().month
-# month = 12
+month = 4
 year = date.today().year
 first, last = calendar.monthrange(year, month)
 
@@ -82,9 +85,16 @@ context = {
     'your_staff_code':os.environ['your_staff_code'],
     # list ticket
     'table_ticket':table_tickets,
+    
+    # Hôm nay ngày... đầu bbnt:
+    'bbnt': {
+        'date':'01',
+        'month': render_date_num((month + 1)%12 or 12),
+        'year': year
+    }
 }
 
-file_name = 'Hoàng Minh Sơn- BB nghiệm thu CTV-T12.2022'
+file_name = f'Hoàng Minh Sơn- BB nghiệm thu CTV-T{month}.{year}'
 
 template.render(context)
 template.save(f"{file_name}.docx")
